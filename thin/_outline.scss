@@ -1,0 +1,13 @@
+body.outline {
+	section {
+		border: solid thin lightgray;
+	}
+	section { 
+		header {
+			border-bottom: solid thin lightgray;
+		}
+		footer {
+			border-top: solid thin lightgray;
+		}
+	}
+}
